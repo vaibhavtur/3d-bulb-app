@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/my-new-react-project/',
+  base: '/3d-bulb-app/',
 })
